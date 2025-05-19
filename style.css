@@ -24,7 +24,7 @@ header {
 .logo-titulo {
   display: flex;
   align-items: center;
-  gap: 15px;
+  gap: 30px;
 }
 
 .logo-titulo img {
